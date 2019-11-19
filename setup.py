@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
 
-version = "0.4"
+version = "0.5"
 
 from distutils.core import setup
 from setuptools.command.sdist import sdist
